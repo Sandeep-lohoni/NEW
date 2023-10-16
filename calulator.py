@@ -20,4 +20,6 @@ elif (c==4):
 else :
     print("invalid option")
 
+print("Thankyou for using calculator")
+
 
